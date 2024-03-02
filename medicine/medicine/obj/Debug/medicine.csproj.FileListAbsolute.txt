@@ -1,0 +1,7 @@
+E:\apc\medicine\medicine\bin\Debug\medicine.exe.config
+E:\apc\medicine\medicine\bin\Debug\medicine.exe
+E:\apc\medicine\medicine\bin\Debug\medicine.pdb
+E:\apc\medicine\medicine\obj\Debug\medicine.csproj.AssemblyReference.cache
+E:\apc\medicine\medicine\obj\Debug\medicine.csproj.CoreCompileInputs.cache
+E:\apc\medicine\medicine\obj\Debug\medicine.exe
+E:\apc\medicine\medicine\obj\Debug\medicine.pdb
